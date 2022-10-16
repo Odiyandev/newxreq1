@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """what's up {} bro💖
+    START_TXT = """What's Up {} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 

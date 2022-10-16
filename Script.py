@@ -10,10 +10,10 @@ Thats All, i will Provide Movies There...🤓🤪
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
-○  it's Note Complicated...🤓
+○  it's Not Complicated...🤓
 
 ○  Search using inline mode
-This methord works on any chat, Just type @NewxReq_bot and then leave a space and search any movie you want...
+This method works on any chat, Just type @NewxReq_bot and then leave a space and search any movie you want...
 
 ○ Available Commands
      

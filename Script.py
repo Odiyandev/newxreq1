@@ -38,7 +38,7 @@ This methord works on any chat, Just type @NewxReq_bot and then leave a space an
     SOURCE_TXT = """<b>NOTE:</b>
 Kolanda mwone"""  
 
-<b>DEVS:</b>
+<b>DEVS:</b>"""
 - <a href=https://t.me/ownerzzzz>red.rtx</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 

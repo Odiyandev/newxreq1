@@ -38,8 +38,6 @@ This methord works on any chat, Just type @NewxReq_bot and then leave a space an
     SOURCE_TXT = """<b>NOTE:</b>
 Kolanda mwone"""  
 
-<b>DEVS:</b>"""
-- <a href=https://t.me/ownerzzzz>red.rtx</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message

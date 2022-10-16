@@ -29,7 +29,7 @@ This methord works on any chat, Just type @NewxReq_bot and then leave a space an
 ○Dont Spam Me...🤒
 """
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝚘𝚠𝚗𝚎𝚛: <a href=https://t.me/Tutru_tutru>TUTRU</a>
+✯ 𝙾𝚆𝙽𝙴𝚁: <a href=https://t.me/Tutru_tutru>TUTRU</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
